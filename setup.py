@@ -10,6 +10,6 @@ setup(
     long_description=open('README.txt').read(),
     install_requires=['numpy'],
     url='https://github.com/BillMills/python-package-example',
-    author='Bill Mills',
+    author='Marco Kulueke',
     author_email='myemail@example.com'
 )
