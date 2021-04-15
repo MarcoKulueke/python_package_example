@@ -1,4 +1,5 @@
-from myPackage import somePython
+# Test not working
+from somePython import somePython
 
 def test_fahrToKelv():
     '''
